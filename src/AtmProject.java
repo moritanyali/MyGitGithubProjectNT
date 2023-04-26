@@ -15,6 +15,9 @@ public class AtmProject {
 
         System.out.println("bir kısım kodlar");
         //ogzhn2
+
+        System.out.println();
+        //ogzhn3
     }
 
 
