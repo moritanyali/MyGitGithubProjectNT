@@ -12,6 +12,9 @@ public class AtmProject {
 
         System.out.println("oguzhan branchi kodlarını yazdı.");
         //version ogzhn1
+
+        System.out.println("bir kısım kodlar");
+        //ogzhn2
     }
 
 
