@@ -19,6 +19,7 @@ public class AtmProject {
         System.out.println();
         //ogzhn3
         System.out.println();
+        //localde değişiklik yaptım.
     }
 
 
